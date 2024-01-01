@@ -29,5 +29,6 @@ In the pursuit of excellence, I went beyond the specified metrics and dashboard 
 <b>Peak Booking Hours ⏰:</b> Identifying the optimal timeframes for promotions and targeted marketing.
 <b>Seasonal Revenue Fluctuations 🌦️:</b> Understanding revenue patterns across seasons to tailor marketing strategies accordingly.
 With this robust Power BI dashboard, AtliQ Grands is now armed with actionable insights, poised to reclaim its market share and elevate revenue. The journey to data-driven success has just begun! 🚀📈✨
-<h2>Dashobard</h2>
+<h2>Dashboard</h2>
+<a href="https://ibb.co/H7hrbRG"><img src="https://i.ibb.co/CBPnY4V/Screenshot-2022-09-17-195405.png" alt="Screenshot-2022-09-17-195405" border="0"></a><br>
 <b> Check visualization here:👉  https://www.novypro.com/project/hospitality-revenue-insight</b>
